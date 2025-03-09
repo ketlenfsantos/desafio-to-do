@@ -3,7 +3,7 @@ import styles from './Header.module.css'
 export function Header() {
     return (
         <header className={styles.container}>
-            <img src="./dist/logo.svg" alt="logo" />
+            <img id="logo" src="./dist/2.png" alt="logo" />
         </header>
     )
 }

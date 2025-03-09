@@ -8,3 +8,7 @@
 
     background-color: var(--gray-700);
 }
+
+img{
+    width: 15rem;
+}
