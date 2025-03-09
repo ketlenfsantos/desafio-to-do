@@ -1,5 +1,5 @@
 Projeto feito utilizando: React + TypeScript + Vite - Exercício Prático do Curso Ignite da Rocketseat.
-
+Modelo de controle da tarefas, com funcionalidades de listagem, checagem e conclusão. 
 Este modelo fornece uma configuração mínima para fazer o React funcionar no Vite com HMR e algumas regras ESLint.
 
 _______________________________________________________________________________
